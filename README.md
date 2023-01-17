@@ -1,11 +1,7 @@
-# Simple Calculator
+# MiniProjects-Js
 
-Calculator create using HTML, CSS and JavaScript.
+Mini Proyectos construidos con HTML, CSS y JavaScript.
 
-## 🎞️ Views
-
-![calculator](./assets/project.png)
-
-## 💻 Demo 
-
-Puedes probar la aplicación haciendo [click aquí](https://simple-calculator-aouriarte.vercel.app)
+| N°  |                Proyectos                 |   Demo   |
+| :-: | :--------------------------------------: | :------: |
+| 01  | [Simple Calculator](./Simple_Calculator) | [Link]() |
